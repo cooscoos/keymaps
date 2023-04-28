@@ -1,3 +1,7 @@
+To do:
+
+- windows key + shortcuts need to work, especially t
+
 Keyboard layout for the Ferris sweep. Upload JSON to [QMK configurator](https://config.qmk.fm/#/ferris/sweep/LAYOUT_split_3x5_2).
 
 Layers:
